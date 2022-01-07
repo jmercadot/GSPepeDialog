@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="msg_no_volver_a_mostrar">No volver a mostrar</string>
+    <string name="msg_ver_ejemplo">Ver ejemplo</string>
+    <string name="msg_aceptar">Aceptar</string>
+    <string name="msg_ahora_no">Ahora no</string>
+</resources>

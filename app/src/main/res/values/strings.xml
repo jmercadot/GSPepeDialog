@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GSPepeDialog</string>
+    <string name="title_alternativas_pago_aguantame">Aguántame</string>
+    <string name="descripcion_alternativa_pago_aguantame"><![CDATA[Te pone al día con tus atrasos con abonos mas comodos<br/><br/><b><font color=#E2494F>Características</font></b><br/>·Un abono más cómodo porque es menor que el actual.<br/>·El plazo es mayor para que pueda cumplir sus pagos.<br/>·Para poder tomar este prodcuto, el cliente debe pagar al menos, dos abonos completos.<br/>·Le condonamos los intereses moratorios generados por el atraso, al tomar este producto.<br/>·Cuidamos su crédito, la línea no podrá ser usada hasta que el cliente cumpla 13 semanas de pago.]]></string>
+</resources>

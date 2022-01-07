@@ -1,0 +1,2 @@
+rootProject.name='GSPepeDialog'
+include ':app', ':gspepedialog'
